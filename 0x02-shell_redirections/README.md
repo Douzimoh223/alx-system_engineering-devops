@@ -1,1 +1,2 @@
-task 0x02
+"script to print hello world"
+
