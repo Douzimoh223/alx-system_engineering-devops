@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "Reverse" | rev
+#!/bin/basho
+tail -r "Reverse"
