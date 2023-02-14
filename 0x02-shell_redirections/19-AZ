@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "A" "c" | tr "Z" "c"
+echo[:A c:] | tr [:Z c:]
